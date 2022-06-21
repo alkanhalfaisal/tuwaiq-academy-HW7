@@ -9,4 +9,4 @@ Dart does not support multiple inheritance
 
 implements:when you want to create the same functions from one class to another class you use (implements) but you have to override all methods ex: class Human to a class student you must implement (override) all methods 
 
-with:when you want to implements more than one class you use with rather than implements
+with:when you want to implements more than one class you use (with) rather than implements
